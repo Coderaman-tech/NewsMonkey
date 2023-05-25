@@ -1,6 +1,11 @@
 This project is completely made by class based components in React where it shows the news of INDIA category wise.
 
 
+![Uploading Screenshot from 2023-05-26 00-00-18.png…]()
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
