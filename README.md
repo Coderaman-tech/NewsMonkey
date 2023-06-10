@@ -1,3 +1,4 @@
+<!-- Use case -->
 This project is completely made by class based components in React where it shows the news of INDIA category wise.
 
 ![Screenshot from 2023-05-26 00-00-18](https://github.com/Coderaman-tech/NewsMonkey/assets/81643753/7a40064f-676e-4abd-b706-f9c58a0d0f3e)
